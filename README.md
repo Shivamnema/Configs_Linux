@@ -1,0 +1,2 @@
+# Configs_Linux
+terminator
