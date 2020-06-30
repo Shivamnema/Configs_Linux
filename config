@@ -11,8 +11,7 @@
     font = Ubuntu Mono Bold 12
     foreground_color = "#00ff00"
     scrollback_infinite = True
-    palette = "#000000:#cd0000:#00cd00:#cdcd00:#0000ee:#cd00cd:#00cdcd:#e5e5e5:#7f7f7f:#ff0000:#00ff00:#ffff00:#5c5cff:#ff00ff:#00ffff:#ffffff"
-    use_system_font = False
+    palette = "#000000:#fcaf3e:#00cd00:#cdcd00:#0000ee:#cd00cd:#00cdcd:#e5e5e5:#7f7f7f:#f57900:#00ff00:#ffff00:#5c5cff:#ff00ff:#00ffff:#ffffff"
   [[shivam]]
     background_darkness = 0.75
     background_type = transparent
@@ -29,4 +28,3 @@
       type = Terminal
       parent = window0
 [plugins]
-
